@@ -1,1 +1,12 @@
 values-v1
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+gen/org/lineageos/setupwizard/BuildConfig.java
+gen/org/lineageos/setupwizard/Manifest.java
+gen/org/lineageos/setupwizard/R.java
+tests/gen/org/lineageos/setupwizard/tests/BuildConfig.java
+tests/gen/org/lineageos/setupwizard/tests/Manifest.java
+tests/gen/org/lineageos/setupwizard/tests/R.java
+tests/tests.iml
+android_packages_apps_SetupWizard.iml
